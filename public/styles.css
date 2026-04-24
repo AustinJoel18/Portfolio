@@ -289,6 +289,15 @@ h2 ul {
     background: url('./images/traffic.jpg');
 }
 
+.img7 {
+    background: url('./images/lms.webp');
+    background-size: cover;
+    /* or cover */
+    background-repeat: no-repeat;
+    /* or size */
+    background-position: center;
+}
+
 .img2 {
     background: url('./images/prediction.png');
     background-size: cover;
